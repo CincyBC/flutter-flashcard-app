@@ -1,6 +1,6 @@
 # study_app
 
-Study App for wine studies
+Study App for to easily download a csv file and study it. The app uses the flip card package for flashcard animation.
 
 ## Getting Started
 
